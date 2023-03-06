@@ -12,6 +12,8 @@ En este cursovemos de todo:
 * trucos muy los del profesor 
 * las personalidades múltiples de freedy
 * Creado por el increible Will
+* incluye ejemplos en linus windows y mac
+* disponible para todas las edades
 
 y como un amable recordatorio **este readme.md es un chiste** Diseñado para el ejemplo. Si llagas acá NO TELO TOMES EN SERIO y mejos ve a ver el curso.
 http://platzi.com "Git y GitHub de Platzi"
